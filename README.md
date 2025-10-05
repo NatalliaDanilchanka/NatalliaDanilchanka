@@ -1,2 +1,2 @@
 ### 🛠️ Tools
-- Python, SQL, Excel, Power BI
+- Python, SQL, Excel
