@@ -1,8 +1,6 @@
 <p>Welcome to my page! </br> I'm Natallia, Data Analyst currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> <b>Oslo, Norway</b>. </p>
 
 ### Languages & libraries:
-- Python, SQL, Excel
-
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-python-F3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
