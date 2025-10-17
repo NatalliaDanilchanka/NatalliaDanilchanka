@@ -4,8 +4,8 @@
 - Python, SQL, Excel
 
 <p>
-  <img alt="python" src="https://img.shields.io/badge/-python-F3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-python-F3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Postgre SQL" src="https://img.shields.io/badge/-postgresql-F4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
