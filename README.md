@@ -4,8 +4,7 @@
 - Python, SQL, Excel
 
 <p>
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  <img alt="python" src="https://img.shields.io/badge/-python-F#776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-python-F3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
