@@ -19,3 +19,13 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="LaTex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
  </p>
+
+
+#### Projects 
+
+<a href="https://github.com/NatalliaDanilchanka/Python_for_Data_Analytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=Python-for-Data-Analytics&theme=buefy" />
+</a>
+<a href="https://github.com/NatalliaDanilchanka/FYS-STK3155_MachineLearning_deliveries">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=FYS-STK3155_MachineLearning_WeeklyDeliveries&theme=buefy" />
+</a>
