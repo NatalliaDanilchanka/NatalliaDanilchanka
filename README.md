@@ -23,9 +23,12 @@
 
 #### Projects 
 
+<a href="https://github.com/NatalliaDanilchanka/Excel_projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=Excel_projects&theme=buefy" />
+</a>
+<a href="https://github.com/NatalliaDanilchanka/FYS-STK3155_MachineLearning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=FYS-STK3155_MachineLearning&theme=buefy" />
+</a>
 <a href="https://github.com/NatalliaDanilchanka/Python_for_Data_Analytics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=Python-for-Data-Analytics&theme=buefy" />
-</a>
-<a href="https://github.com/NatalliaDanilchanka/FYS-STK3155_MachineLearning_deliveries">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=FYS-STK3155_MachineLearning_WeeklyDeliveries&theme=buefy" />
 </a>
