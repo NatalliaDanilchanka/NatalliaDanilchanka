@@ -21,12 +21,19 @@
  </p>
 
 
-#### Projects 
+#### Projects:
+<a href="https://github.com/NatalliaDanilchanka/FYS-STK3155_MachineLearning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=FYS-STK3155_MachineLearning&theme=buefy" width="400"/>
+</a>
 
 <a href="https://github.com/NatalliaDanilchanka/Excel_projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=Excel_projects&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=Excel_projects&theme=buefy" width="460" height="300" />
+</a>
+
+<a href="https://github.com/NatalliaDanilchanka/CS50P">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=CS50P&theme=buefy" width="460" height="230" />
 </a>
 
 <a href="https://github.com/NatalliaDanilchanka/Python_for_Data_Analytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=Python-for-Data-Analytics&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NatalliaDanilchanka&repo=Python-for-Data-Analytics&theme=buefy" width="460" height="230" />
 </a>
