@@ -31,5 +31,6 @@
 ## Exploratory data analysis of UA Passengers 1995-2020
 
 <img width="2284" height="1014" alt="image" src="https://github.com/user-attachments/assets/d136116b-ff7b-4eec-b70c-170a65a769ba" />
+
 [Link: Exploratory data analysis of UA Passengers 1995-2020](https://github.com/NatalliaDanilchanka/Python_projects/blob/main/UA%20passangers%201995-2020/UA%20Passengers%201995-2020.ipynb)
 
