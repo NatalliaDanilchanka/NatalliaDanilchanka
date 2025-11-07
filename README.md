@@ -20,3 +20,16 @@
   <img alt="LaTex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
  </p>
 
+### Projects:
+
+## Developer's Salary Dashboard in Norway, 2024 
+
+![Untitled design](https://github.com/user-attachments/assets/f6b42e8b-6044-4f7e-9fc4-302ec95d73b5)
+[Link: Developer Salaries in Norway](https://github.com/NatalliaDanilchanka/Excel_projects/blob/main/Project_1/Developer%20salaries%20in%20norway_final.xlsx)
+
+
+## Exploratory data analysis of UA Passengers 1995-2020
+
+<img width="2284" height="1014" alt="image" src="https://github.com/user-attachments/assets/d136116b-ff7b-4eec-b70c-170a65a769ba" />
+[Link: Exploratory data analysis of UA Passengers 1995-2020](https://github.com/NatalliaDanilchanka/Python_projects/blob/main/UA%20passangers%201995-2020/UA%20Passengers%201995-2020.ipynb)
+
